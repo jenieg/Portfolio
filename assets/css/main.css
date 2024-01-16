@@ -154,6 +154,7 @@ input, select, textarea {
 	h3 {
 		font-size: 1.75em;
 		line-height: 1.5em;
+		color: #005FD2;
 	}
 
 	h4 {
@@ -2741,7 +2742,7 @@ input, select, textarea {
 
 			#header > header .avatar {
 				display: block;
-				margin: 0 auto 2.25em auto;
+				margin: 0 auto 3.15em auto;
 				width: 8em;
 			}
 
@@ -2789,7 +2790,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #fff;
+					/* border-top: solid 2px #fff; */
 	
 					display: block;
 					padding: 0;
@@ -3327,7 +3328,7 @@ input, select, textarea {
 		text-align: center;
 		line-height: 1.75em;
 		color: #fff;
-		background-color: #005FD2;
+		background-color: #2e8540;
 		padding: .5rem 1.5rem;
 		border: 0;
 		border-radius: 5px;
@@ -3348,7 +3349,7 @@ input, select, textarea {
 	}
 
 	button.primary:hover {
-		background-color: #3499FC;
+		background-color: #54b968;
 	}
 
 	button.secondary:hover {
