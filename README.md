@@ -10,7 +10,7 @@ Created a fully responsive personal portfolio website from scratch using HTML, C
 
 ## Optimizations
 
-I plan to come back and include a scroll-to-top button that displays after scrolling past the fold.
+I plan to come back and include a scroll-to-top button that displays after scrolling past the fold, I'd also like to include a toggle for night-day mode for improved user experience.
 
 ## More Projects:
 
