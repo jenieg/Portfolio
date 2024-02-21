@@ -1,21 +1,21 @@
-# My Portfolio : [Visit Here](https://jenie.netlify.app/)
+# My Portfolio | [Visit Here](https://jenie.netlify.app/)
 
-![Jenie | Software Engineer](/images/portfolio.png)
+![Jenie | Software Engineer](/images/portfolio-2024.png)
 
-### My portfolio site including links to my projects and ways to get in contact with me.
 
-## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=flat&logo=html5) ![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=flat&logo=css3) ![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=flat&logo=javascript)
 
-Developed with a focus on wanting a simple UI and a smooth UX.
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=5a5a5a&style=flat&logo=html5) ![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=5a5a5a&style=flat&logo=css3) ![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=5a5a5a&style=flat&logo=javascript)
+
+Created a fully responsive personal portfolio website from scratch using HTML, CSS, and inline JavaScript. Highlights my latest projects and includes direct links to my GitHub, LinkedIn, and email for easy contact and exploration.
 
 ## Optimizations
 
-When I improve this project I would start by incorporating a dark-mode toggle. I also plan to add in more options for color-blind accessibility.
+I plan to come back and include a scroll-to-top button that displays after scrolling past the fold.
 
 ## More Projects:
 
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at these other projects I've done:
 
-**Guess That Pokemon:** https://github.com/jenieg/Guess-That-Pokemon
+**Birth Month Flower API & Client:** https://github.com/jenieg/flower-name-client
 
-**Tic-Tac-Toe:** https://github.com/jenieg/Tic-Tac-Toe
+**Guess that Pokemon:** https://github.com/jenieg/Guess-That-Pokemon
