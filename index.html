@@ -3,10 +3,14 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!--Oswald Font-->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Source+Sans+3:wght@300;400;600;700&display=swap" rel="stylesheet">
+	<!--Font Awesome-->
 	<script src="https://kit.fontawesome.com/119c254871.js" crossorigin="anonymous"></script>
+
 	<link rel="stylesheet" type="text/css" href="./assets/css/reset.css">
 	<link rel="stylesheet" type="text/css" href="./assets/css/main.css">
 	<title>JENIE | Software Engineer</title>
@@ -26,47 +30,50 @@
 
 		<section class="about centertext">
 			<h2 class="uppercase">A little more about me.</h2>
-			<p>I'm a full-stack software engineer working with JavaScript, Node.js, Express, and MongoDB.I solve real-life problems with impactful solutions that contribute to a more sustainable and equitable future.</p>
+			<p>I'm a full-stack software engineer working with JavaScript, Node.js, Express, and MongoDB. Solving real-life problems with impactful solutions that contribute to a more sustainable and equitable future.</p>
 			<p>Let's connect to explore remote work opportunities and build something amazing together!</p>
 		</section>
 
 		<section class="portfolio centertext">
 			<h2 class="port-title uppercase">My Favorite Projects</h2>
-			<div class="container2">
-				<section class="project">
+			<section class="portfolio">
+				<div class="project-container">
+					<a href="https://quilt-your-stash.onrender.com/" target="_blank" rel="noopener noreferrer">
+						<img src="./images/sew-your-stash.png" alt="Full Stack Applcation: Sew Your Stash" class="project-img">
+					</a>
+					<h4 class="uppercase">Sew Your Stash</h4>
+					<h5>HTML | CSS | JavaScript | Node | Express | MongoDB</h5>
+					<p>An inventory managment system that combines my passion for quilting and coding. Local Auth is provided by passport.js so users can sign up, sign in, and create their collection.</p>
+				</div>
+				<div class="project-container">
 					<a href="https://github.com/jenieg/flower-name-api" target="_blank" rel="noopener noreferrer">
 						<img src="./images/findflowerclient.png" alt="RESTful API: Find your birth month flower" class="project-img">
 					</a>
-					<h4 class="uppercase">RESTful API | Find Your Birth Flower</h4>
-					<p>Designed to query flower data based on specified months. Users can make GET requests to the endpoint, providing a 'month' parameter and the API responds with JSON-formatted data.</p>
-				</section>
-				<section class="project">
+					<h4 class="uppercase">Find Your Birth Flower</h4>
+					<h5>HTML | CSS | JavaScript | Node | Express | MongoDB</h5>
+					<p>Query flower data based on specified months. Users can make GET requests to the endpoint, providing a 'month' parameter and the API responds with JSON-formatted data.</p>
+				</div>
+				<div class="project-container">
 					<a href="https://github.com/jenieg/Guess-That-Pokemon" target="_blank" rel="noopener noreferrer">
 						<img src="./images/pokemon.png" alt="Web App: Guess that Pokemon" class="project-img"">
 					</a>
-					<h4 class="uppercase">Web app | Guess that Pokémon</h4>
-					<p>Welcome to a game built on the foundation of the PokeAPI's RESTful API. This project aims to provide a simple yet entertaining experience centered around the original cast of Pokémon</p>
-				</section>
-				<section class="project">
+					<h4 class="uppercase">Guess that Pokémon</h4>
+					<h5>HTML | CSS | JavaScript</h5>
+					<p>Built on the foundation of the PokeAPI's RESTful API. This is a simple yet entertaining experience centered around the original cast of Pokémon</p>
+				</div>
+				<div class="project-container">
 					<a href="https://raw.githubusercontent.com/jenieg/Portfolio/main/images/peace-place-notdeploy.png" target="_blank" rel="noopener noreferrer">
 						<img src="./images/peace-place-notdeploy-hero.png" alt="Website: Peace Place Respite Care" class="project-img">
 					</a>
-					<h4 class="uppercase">Website | Peace Place Respite Care</h4>
-					<p>A responsive and user-friendly website created for Peace Place Respite Care to empower its mission to reach wider audiences and make a meaningful difference in the community. Built using WordPress and Elementor.</p>
-				</section>
-				<section class="project">
-					<a href="https://onehappymama.48in48staging.com/" target="_blank" rel="noopener noreferrer">
-						<img src="./images/one-happy-mama.png" alt="Website: One Happy Mama" class="project-img">
-					</a>
-					<h4 class="uppercase">Website | One Happy Mama</h4>
-					<p>A responsive, dynamic, and user-friendly website crafted for a nonprofit in collaboration with 48in48. This project was awarded 1st place from a panel of experts. Built using WordPress and Beaver Builder.</p>
-				</section>
-				<div class="github-container">
-					<a href="https://github.com/jenieg" target="_blank" rel="noopener noreferrer">
-						<button class="github">More Projects on Github</button>
-					</a>
-				</div>
-				
+					<h4 class="uppercase">Peace Place Respite Care</h4>
+					<h5>WordPress | Elementor</h5>
+					<p>A responsive and user-friendly website created for Peace Place Respite Care to empower its mission to reach wider audiences and make a meaningful difference in the community.</p>
+				</div>				
+			</section>
+			<div class="github-container">
+				<a href="https://github.com/jenieg" target="_blank" rel="noopener noreferrer">
+					<button class="github">More Projects on Github</button>
+				</a>
 			</div>
 		</section>
 	</main>
