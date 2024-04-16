@@ -138,6 +138,10 @@ h2 {
 	/* object-fit: contain; */
 }
 
+.repo-link {
+	margin: 0 .05rem 0 .5rem;
+}
+
 h4 {
 	font-weight: 500;
 	letter-spacing: .025rem;
