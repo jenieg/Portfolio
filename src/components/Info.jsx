@@ -2,7 +2,7 @@ const Info = () => {
     return (
         <section className="my-18 flex flex-col items-center justify-center text-center">
             <h2 className="uppercase font-semibold text-2xl">A little more about me</h2>
-            <div className="max-w-screen-md mt-8 px-6">
+            <div className="mt-8 px-6">
                 <p>
                     I&apos;m a full-stack software engineer working with JavaScript,
                     React, Node.js, Express, and MongoDB. Solving real-life problems
